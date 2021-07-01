@@ -1,3 +1,4 @@
+只能在linux系统上运行
 audio:音频文件夹
 
 ​		backgrund_music.mp3（原始音频）
